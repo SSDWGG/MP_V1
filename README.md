@@ -20,11 +20,11 @@ database 中链接数据库
 
 ### 1.项目截图
 
-![在这里插入图片描述]('[./V1_imgList/account.png](https://github.com/SSDWGG/MP_V1/blob/main/antpro/public/login.png')
-![在这里插入图片描述]('./V1_imgList/login.png')
-![在这里插入图片描述]('./V1_imgList/register.png')
-![在这里插入图片描述]('./V1_imgList/registerResult.png')
-![在这里插入图片描述]('./V1_imgList/todoList.png')
+![在这里插入图片描述](V1_imgList/account.png)
+![在这里插入图片描述](V1_imgList/login.png)
+![在这里插入图片描述](V1_imgList/register.png)
+![在这里插入图片描述](V1_imgList/registerResult.png)
+![在这里插入图片描述](V1_imgList/todoList.png)
 
 <br/>
 
