@@ -21,6 +21,9 @@ database 中链接数据库
 ### 1.项目截图
 
 ![登录](V1_imgList/login.png)
+
+![测试](https://github.com/SSDWGG/ImgRepository/blob/main/rabbitlogo.png)
+
 ![注册](V1_imgList/register.png)
 ![注册结果](V1_imgList/registerResult.png)
 ![个人账号中心](V1_imgList/account.png)
