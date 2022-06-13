@@ -4,10 +4,10 @@ const mysql = require('mysql')
 // 创建链接对象
 const con = mysql.createConnection({
     host: 'localhost',
-    user: '',
-    password: '',
+    user: 'root',
+    password: '123456',
     port: '3306',
-    database: '',
+    database: 'MP_V1',
     charset: 'utf8mb4' //字符集一定要写，否则表情包存储不了
 })
 
